@@ -57,10 +57,3 @@ Open `index.html` in any modern browser — no server required.
 ThinkPython/index.html
 ```
 
----
-
-## License
-
-*Think Python* is licensed under the
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-© 2024 Allen B. Downey
