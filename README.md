@@ -1,5 +1,4 @@
 # pustakalu
-pustakālu
 
 ## Books
 
